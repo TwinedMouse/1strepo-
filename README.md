@@ -1,3 +1,3 @@
 # 1strepo-
 My first git repo 
-Author - pivesh 
+Author - pivesh chauhan
